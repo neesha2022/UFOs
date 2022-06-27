@@ -7,6 +7,7 @@ The assignment was to create a webpage for UFOs where users can filter the UFO s
 ***Link to the webpage: file:///Users/neesha/Homework/UFOs/index.html***
 
 ***Main page:***
+![Retirement info.png](https://github.com/neesha2022/Pewlett-Hackard-Analysis/blob/main/Retirement%20info.png)
 
 ***Using Filter Search fields:***
 
