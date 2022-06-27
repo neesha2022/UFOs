@@ -25,3 +25,7 @@ Entering data in each of these fields will general results accordingly.
 ![Country and Shape search.jpg](https://github.com/neesha2022/UFOs/blob/main/static/images/Country%20and%20Shape%20search.jpg)
 
 **Limitations:**
+
+1. Some of the fields were case sensitive. For eg: Entering San Diego for city did not yield any results. But entering san diego yielded in results. 
+
+2. It would help to provide a drop down list of dates and cities for convenience. 
